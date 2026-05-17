@@ -8,6 +8,7 @@
 ### 4:Than you have to answer the questions 
 ## Important: only answer with this Letters: a, b, or c.
 # What do I have learned or practised with this projekt?
-### 1 how to use += (because of the variable score)
+### 1 I learned when and how to use += (because of the variable score).
 ### 2 I practised to use if,elif and else.
-### 3 to give a feedback or advice (I recommend trying Coddy, Codedex...).
+### 3 I practised to give a feedback or advice (I recommend trying Coddy, Codedex...).
+# I hope you can enjoy the game!
