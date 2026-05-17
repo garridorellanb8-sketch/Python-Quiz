@@ -9,6 +9,5 @@
 ## Important: only answer with this Letters: a, b, or c.
 # What do I have learned or practised with this projekt?
 ### 1 how to use += (because of the variable score)
-### 2 
-
-
+### 2 I practised to use if,elif and else.
+### 3 to give a feedback or advice (I recommend trying Coddy, Codedex...).
